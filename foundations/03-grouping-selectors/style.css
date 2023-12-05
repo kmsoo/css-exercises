@@ -1,0 +1,12 @@
+.one {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+.two {
+  background-color: yellow;
+}
+.one,
+.two {
+  font-size: 28px;
+  font-family: Helvertica, "Times New Roman", sans-serif;
+}
